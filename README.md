@@ -76,62 +76,62 @@ The following information is available for each Representative.
 <details>
   <summary>Expand Details</summary>
 
-Parameter                           | Type   | Description
-------------------------------------|--------|----------------
-`state_name`                        | string | Name of State
-`state_state_name_slug`             | string | Name of State converted to lowercase letters and spaces replaced with dashes
-`state_code`                        | string | Two Letter State Abbreviation
-`state_code_slug`                   | string | Two Letter State Abbreviation in lowercase letters
-`district`                          | mixed  | District of Representative ( not always available )
-`at_large`                          | enum   | Representative is considered At-Large
-`at_vacant`                         | enum   | Representative is considered At-Large
-`bioguide`        | string  | The alphanumeric ID for this Representative on http://bioguide.congress.gov ( http://bioguide.congress.gov/scripts/biodisplay.pl?index=C001075 )
-`thomas`          | string  | The numeric ID for this Representative ( not really used anymore )
-`govtrack`        | string  | The numeric ID for this Representative on GovTrack.us ( https://www.govtrack.us/congress/members/412630 )
-`opensecrets`     | string  | The alphanumeric ID for this Representative on OpenSecrets.org ( https://www.opensecrets.org/politicians/summary.php?cid=N00030245 )
-`votesmart`       | string  | The numeric ID for this Representative on VoteSmart.org ( http://votesmart.org/candidate/69494 )
-`fec`       | string  | Federal Election Commission ID ( http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=H6AL04098 )
-`maplight`       | string  | The numeric ID for this Representative on MapLight.org  ( http://maplight.org/us-congress/legislator/127 )
-`wikidata`       | string  | The numeric ID for this Representative on wikidata.org ( https://www.wikidata.org/wiki/Q672671 )
-`google_entity_id`       | string  | Google Integration
-`title`                             | enum   | Title of Representative
-`party`                             | enum   | Political Party of Representative
-`name`                              | string | Full Name of Representative
-`name_slug`                         | string | Full Name of Representative converted to lowercase letters and spaces replaced with dashes
-`first_name`                        | string | First Name of Representative
-`middle_name`                        | string | Middle Name of Representative
-`last_name`                         | string | Last Name of Representative
-`name_suffix`                         | string | Name Suffix of Representative
-`goes_by`                         | string | Name Representative Prefers to go by
-`pronunciation`                         | string | How to Pronounce Representative's Name
-`gender`                            | enum   | Gender of Representative
-`ethnicity`                         | enum   | Ethnicity of Representative
-`religion`                         | enum   | Religion of Representative
-`openley_lgbtq`                         | enum   | Representative is Openly LGBTQ
-`date_of_birth`                     | date   | Date of Birth of Representative
-`entered_office`                    | date   | Date Representative First Entered Office
-`term_end`                          | date   | Date Representative's Current Term Ends
-`biography`       | string  | Senator's Biography from Congress.gov
-`phone`                             | string | Work Phone Number of Representative
-`fax`                             | string | Work Phone Number of Representative
-`latitude`        | float   | GPS Latitude of Office
-`longitude`       | float   | GPS Longitude of Office
-`address_complete`                  | string | Work Mailing Address of Representative
-`address_number`                    | number | Mailing Address Number
-`address_prefix`                    | string | Mailing Address Prefix
-`address_street`                    | string | Mailing Address Street
-`address_sec_unit_type`             | string | Mailing Address Section Unit Type
-`address_sec_unit_num`              | number | Mailing Address Section Unit Number
-`address_city`                      | string | Mailing Address City
-`address_state`                     | string | Mailing Address State
-`address_zipcode`                   | string | Mailing Address zipcode
-`address_type`                      | string | Mailing Address Type
-`website`         | string  | Representative's Website
-`contact_page`         | string  | Representative's Contact Page
-`facebook_url`    | string  | Facebook URL
-`twitter_handle`                    | string | Twitter Handle of Representative ( not always available )
-`twitter_url`                       | string | Twitter URL of Representative ( not always available )
-`photo_url`                         | string | Photo URL of Representative ( not always available )
+Parameter               | Type   | Description
+------------------------|--------|----------------
+`state_name`            | string | Name of State
+`state_state_name_slug` | string | Name of State converted to lowercase letters and spaces replaced with dashes
+`state_code`            | string | Two Letter State Abbreviation
+`state_code_slug`       | string | Two Letter State Abbreviation in lowercase letters
+`district`              | mixed  | District of Representative ( not always available )
+`at_large`              | enum   | Representative is considered At-Large
+`vacant`                | enum   | Representative Seat is Vacant
+`bioguide`              | string | The alphanumeric ID for this Representative on http://bioguide.congress.gov ( http://bioguide.congress.gov/scripts/biodisplay.pl?index=C001075 )
+`thomas`                | string | The numeric ID for this Representative ( not really used anymore )
+`govtrack`              | string | The numeric ID for this Representative on GovTrack.us ( https://www.govtrack.us/congress/members/412630 )
+`opensecrets`           | string | The alphanumeric ID for this Representative on OpenSecrets.org ( https://www.opensecrets.org/politicians/summary.php?cid=N00030245 )
+`votesmart`             | string | The numeric ID for this Representative on VoteSmart.org ( http://votesmart.org/candidate/69494 )
+`fec`                   | string | Federal Election Commission ID ( http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=H6AL04098 )
+`maplight`              | string | The numeric ID for this Representative on MapLight.org  ( http://maplight.org/us-congress/legislator/127 )
+`wikidata`              | string | The numeric ID for this Representative on wikidata.org ( https://www.wikidata.org/wiki/Q672671 )
+`google_entity_id`      | string | Google Integration
+`title`                 | enum   | Title of Representative
+`party`                 | enum   | Political Party of Representative
+`name`                  | string | Full Name of Representative
+`name_slug`             | string | Full Name of Representative converted to lowercase letters and spaces replaced with dashes
+`first_name`            | string | First Name of Representative
+`middle_name`           | string | Middle Name of Representative
+`last_name`             | string | Last Name of Representative
+`name_suffix`           | string | Name Suffix of Representative
+`goes_by`               | string | Name Representative Prefers to go by
+`pronunciation`         | string | How to Pronounce Representative's Name
+`gender`                | enum   | Gender of Representative
+`ethnicity`             | enum   | Ethnicity of Representative
+`religion`              | enum   | Religion of Representative
+`openley_lgbtq`         | enum   | Representative is Openly LGBTQ
+`date_of_birth`         | date   | Date of Birth of Representative
+`entered_office`        | date   | Date Representative First Entered Office
+`term_end`              | date   | Date Representative's Current Term Ends
+`biography`             | string | Senator's Biography from Congress.gov
+`phone`                 | string | Work Phone Number of Representative
+`fax`                   | string | Work Phone Number of Representative
+`latitude`              | float  | GPS Latitude of Office
+`longitude`             | float  | GPS Longitude of Office
+`address_complete`      | string | Work Mailing Address of Representative
+`address_number`        | number | Mailing Address Number
+`address_prefix`        | string | Mailing Address Prefix
+`address_street`        | string | Mailing Address Street
+`address_sec_unit_type` | string | Mailing Address Section Unit Type
+`address_sec_unit_num`  | number | Mailing Address Section Unit Number
+`address_city`          | string | Mailing Address City
+`address_state`         | string | Mailing Address State
+`address_zipcode`       | string | Mailing Address zipcode
+`address_type`          | string | Mailing Address Type
+`website`               | string | Representative's Website
+`contact_page`          | string | Representative's Contact Page
+`facebook_url`          | string | Facebook URL
+`twitter_handle`        | string | Twitter Handle of Representative ( not always available )
+`twitter_url`           | string | Twitter URL of Representative ( not always available )
+`photo_url`             | string | Photo URL of Representative ( not always available )
 
 * `photo_url` is available in the following sizes: 64x64, 128x128, 256x256, 512x512 & 1024x1024 ( defaults to 512x512 )
 
