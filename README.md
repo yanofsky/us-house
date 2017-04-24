@@ -7,7 +7,7 @@ __Civil Services__ is a collection of tools that make it possible for citizens t
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/CivilServiceUSA/us-house/master/LICENSE)  [![GitHub contributors](https://img.shields.io/github/contributors/CivilServiceUSA/us-house.svg)](https://github.com/CivilServiceUSA/us-house/graphs/contributors)
 
-![Screenshot](screenshot.jpg "Screenshot")
+![Screenshot](screenshot.gif "Screenshot")
 
 We have also built an interactive search tool that can show you some interesting demographic data on US Senators.
 
@@ -27,10 +27,10 @@ Completed Tasks
 We have completed the following Data Collection [Watch Project](https://github.com/CivilServiceUSA/us-house/subscription) to be notified of updates.
 
 - [X] US House Data Created
-- [ ] Representative Headshots Created
-- [ ] Images Uploaded to CDN
+- [X] Representative Headshots Created
+- [X] Images Uploaded to CDN
 - [X] GeoJSON File Created
-- [ ] Published NPM Package
+- [X] Published NPM Package
 
 
 Senator Data
