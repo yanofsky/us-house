@@ -18,7 +18,7 @@ We have also built an interactive search tool that can show you some interesting
 Introduction
 ===
 
-This project provides the __[City Council Data](./us-house)__, Headshots & City Photo for New York, NY ( GeoJSON, JSON, XML, CSV, SQL & YML formats ).  See [Provided Data](#provided-data) below for full list of data in this project.
+This project provides the __[United States House of Representatives Data](./us-house)__, Headshots & City Photo for New York, NY ( GeoJSON, JSON, XML, CSV, SQL & YML formats ).  See [Provided Data](#provided-data) below for full list of data in this project.
 
 
 Completed Tasks
