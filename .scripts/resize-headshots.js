@@ -1,6 +1,6 @@
 var gm = require('gm');
 var glob = require('glob');
-var Promise = require('bluebird')
+var Promise = require('bluebird');
 
 var image64 = 'us-house/images/headshots/64x64/';
 var image128 = 'us-house/images/headshots/128x128/';
