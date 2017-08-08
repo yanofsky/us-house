@@ -12,7 +12,7 @@ glob('source/headshots/*.jpg', { ignore: 'source/headshots/template.jpg' }, func
   if (files.length === 0) {
     console.log('× No headshot images to convert');
   } else {
-    Promise.each(files, function(file) {
+    Promise.each(files, function(file){
       return resizeImage(file, file.replace(/^.*[\\\/]/, ''))
     });
   }
@@ -24,7 +24,6 @@ glob('source/headshots/*.jpg', { ignore: 'source/headshots/template.jpg' }, func
  * @param fileName
  */
 function resizeImage (fullSizeImage, fileName) {
-  console.log(fullSizeImage);
   // Check that Base Image Exists and is Correct Size
   gm(fullSizeImage).size(function (err, size) {
     if (err) {
