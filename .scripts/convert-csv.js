@@ -161,7 +161,7 @@ if (fs.existsSync(core)) {
         gender: data.gender,
         ethnicity: data.ethnicity,
         religion: data.religion,
-        openly_lgbtq: data.openly_lgbtq,
+        openly_lgbtq: data.openly_lgbtq || 'no',
         date_of_birth: data.date_of_birth,
         entered_office: data.entered_office,
         term_end: data.term_end,

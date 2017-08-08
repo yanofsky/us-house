@@ -1826,7 +1826,7 @@
         <date_of_birth>1940-03-26</date_of_birth>
         <entered_office>1987-01-06</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Nancy Pelosi, (daughter of Thomas D'Alesandro, Jr.), a Representative from California; born Nancy Dâ€™Alesandro in Baltimore, Md., March 26, 1940; A.B., Trinity College, 1962; chair, California state Democratic Party, 1981-1983; finance chairman, Democratic Senatorial Campaign Committee, 1985-1986; elected as a Democrat to the One Hundredth Congress, by special election, to fill the vacancy caused by the death of United States Representative Sala Burton of California, and reelected to the fifteen succeeding Congresses (June 2, 1987-present); minority whip (One Hundred Seventh Congress); minority leader (One Hundred Eighth, One Hundred Ninth, and One Hundred Twelfth through One Hundred Fifteenth Congresses); Speaker of the House (One Hundred Tenth and One Hundred Eleventh Congresses).</biography>
+        <biography>Nancy Pelosi, (daughter of Thomas D'Alesandro, Jr.), a Representative from California; born Nancy D'Alesandro in Baltimore, Md., March 26, 1940; A.B., Trinity College, 1962; chair, California state Democratic Party, 1981-1983; finance chairman, Democratic Senatorial Campaign Committee, 1985-1986; elected as a Democrat to the One Hundredth Congress, by special election, to fill the vacancy caused by the death of United States Representative Sala Burton of California, and reelected to the fifteen succeeding Congresses (June 2, 1987-present); minority whip (One Hundred Seventh Congress); minority leader (One Hundred Eighth, One Hundred Ninth, and One Hundred Twelfth through One Hundred Fifteenth Congresses); Speaker of the House (One Hundred Tenth and One Hundred Eleventh Congresses).</biography>
         <phone>202-225-4965</phone>
         <fax>202-225-8259</fax>
         <latitude>38.8863235</latitude>
@@ -3031,54 +3031,54 @@
         <state_code_slug>ca</state_code_slug>
         <district>34</district>
         <at_large>false</at_large>
-        <vacant>true</vacant>
-        <bioguide>null</bioguide>
+        <vacant>false</vacant>
+        <bioguide>G000585</bioguide>
         <thomas>null</thomas>
-        <govtrack>null</govtrack>
-        <opensecrets>null</opensecrets>
-        <votesmart>null</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
+        <govtrack>412739</govtrack>
+        <opensecrets>N00040597</opensecrets>
+        <votesmart>138524</votesmart>
+        <fec>H8CA34266</fec>
+        <maplight>2250</maplight>
+        <wikidata>Q6200205</wikidata>
         <google_entity_id>null</google_entity_id>
         <title>representative</title>
-        <party>null</party>
-        <name> </name>
-        <name_slug>null</name_slug>
-        <first_name>null</first_name>
+        <party>democrat</party>
+        <name>Jimmy Gomez</name>
+        <name_slug>jimmy-gomez</name_slug>
+        <first_name>Jimmy</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
+        <last_name>Gomez</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>null</pronunciation>
-        <gender>null</gender>
-        <ethnicity>null</ethnicity>
-        <religion>null</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>null</date_of_birth>
-        <entered_office>null</entered_office>
-        <term_end>null</term_end>
-        <biography>null</biography>
-        <phone>null</phone>
+        <pronunciation>JIM-ee GOH-mehz</pronunciation>
+        <gender>male</gender>
+        <ethnicity>hispanic-american</ethnicity>
+        <religion>christian</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1974-11-25</date_of_birth>
+        <entered_office>2017-07-11</entered_office>
+        <term_end>2019-01-03</term_end>
+        <biography>Jimmy Gomez, a Representative from California; born on November 25, 1974; B.A., University of California, Los Angeles, Calif.,; M.P.P., Harvard University, Cambridge, Mass.,; staff, United States Representative Hilda Solis of California; director, United Nurses Association of California; member of the California state assembly, 2012-2017; majority whip, 2012-2015; elected as a Democrat to the One Hundred Fifteenth Congress, by special election, to fill the vacancy caused by the resignation of United States Representative Xavier Becerra (June 6, 2017-present).</biography>
+        <phone>202-225-6235</phone>
         <fax>null</fax>
-        <latitude>null</latitude>
-        <longitude>null</longitude>
-        <address_complete>null</address_complete>
-        <address_number>null</address_number>
+        <latitude>38.8863235</latitude>
+        <longitude>-77.011373</longitude>
+        <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
+        <address_number>2436</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>null</address_street>
+        <address_street>Rayburn Hob</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>null</address_city>
-        <address_state>null</address_state>
-        <address_zipcode>null</address_zipcode>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
-        <photo_url>null</photo_url>
+        <website>https://gomez.house.gov/</website>
+        <contact_page>https://gomez.house.gov/contact</contact_page>
+        <facebook_url>https://www.facebook.com/RepJimmyGomez/</facebook_url>
+        <twitter_handle>repjimmygomez</twitter_handle>
+        <twitter_url>https://twitter.com/repjimmygomez</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/jimmy-gomez.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>California</state_name>
@@ -3226,7 +3226,7 @@
         <date_of_birth>1953-10-03</date_of_birth>
         <entered_office>2011-01-05</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Karen Bass, a Representative from California; born in Los Angeles, Los Angeles County, California, October 3, 1953; graduated from Hamilton High School, Los Angeles, Calif.; B.S., California State University, Dominguez Hills, Calif., 1990; P.A., University of Southern California, Los Angeles, Calif.; physicianâ€™s assistant; faculty, University of Southern California, Los Angeles, Calif.; member of the California state assembly, 2005-2010, speaker, 2008-2010; elected as a Democrat to the One Hundred Twelfth and to the three succeeding Congresses (January 3, 2011-present).</biography>
+        <biography>Karen Bass, a Representative from California; born in Los Angeles, Los Angeles County, California, October 3, 1953; graduated from Hamilton High School, Los Angeles, Calif.; B.S., California State University, Dominguez Hills, Calif., 1990; P.A., University of Southern California, Los Angeles, Calif.; physician's assistant; faculty, University of Southern California, Los Angeles, Calif.; member of the California state assembly, 2005-2010, speaker, 2008-2010; elected as a Democrat to the One Hundred Twelfth and to the three succeeding Congresses (January 3, 2011-present).</biography>
         <phone>202-225-7084</phone>
         <fax>202-225-2422</fax>
         <latitude>38.8863235</latitude>
@@ -4682,7 +4682,7 @@
         <date_of_birth>1943-03-02</date_of_birth>
         <entered_office>1991-01-03</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Rosa DeLauro, a Representative from Connecticut; born in New Haven, New Haven County, Conn., March 2, 1943; graduated from Lauralton Hall High School, Milford, Conn.; B.A., Marymount College, Tarrytown, N.Y., 1964; attended the London School of Economics, London, England, 1962-1963; M.A., Columbia University, New York, N.Y., 1966; staff, Mayor Frank Logue of New Haven, Conn., 1976-1977; campaign manager, Mayor Frank Logue, 1978; staff, New Haven, Conn., development administrator, 1977-1979; campaign manager for United States Senator Christopher J. Dodd of Connecticut, 1979-1980; staff, United States Senator Christopher J. Dodd of Connecticut, 1981-1987; executive director, Countdown â€˜87, 1987-1988; executive director, EMILYâ€™S List, 1989-1990; elected as a Democrat to the One Hundred Second and to the thirteen succeeding Congresses (January 3, 1991-present).</biography>
+        <biography>Rosa DeLauro, a Representative from Connecticut; born in New Haven, New Haven County, Conn., March 2, 1943; graduated from Lauralton Hall High School, Milford, Conn.; B.A., Marymount College, Tarrytown, N.Y., 1964; attended the London School of Economics, London, England, 1962-1963; M.A., Columbia University, New York, N.Y., 1966; staff, Mayor Frank Logue of New Haven, Conn., 1976-1977; campaign manager, Mayor Frank Logue, 1978; staff, New Haven, Conn., development administrator, 1977-1979; campaign manager for United States Senator Christopher J. Dodd of Connecticut, 1979-1980; staff, United States Senator Christopher J. Dodd of Connecticut, 1981-1987; executive director, Countdown â€˜87, 1987-1988; executive director, EMILY'S List, 1989-1990; elected as a Democrat to the One Hundred Second and to the thirteen succeeding Congresses (January 3, 1991-present).</biography>
         <phone>202-225-3661</phone>
         <fax>202-225-4890</fax>
         <latitude>38.8863235</latitude>
@@ -6672,35 +6672,35 @@
         <district>6</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
-        <bioguide>P000591</bioguide>
-        <thomas>1778</thomas>
-        <govtrack>400626</govtrack>
-        <opensecrets>N00026160</opensecrets>
-        <votesmart>11853</votesmart>
-        <fec>H4GA06087</fec>
-        <maplight>632</maplight>
-        <wikidata>Q1415243</wikidata>
-        <google_entity_id>kg:/m/04z48c</google_entity_id>
+        <bioguide>H001078</bioguide>
+        <thomas>null</thomas>
+        <govtrack>412737</govtrack>
+        <opensecrets>N00035477</opensecrets>
+        <votesmart>69553</votesmart>
+        <fec>H8GA06286</fec>
+        <maplight>2249</maplight>
+        <wikidata>Q6369678</wikidata>
+        <google_entity_id>null</google_entity_id>
         <title>representative</title>
         <party>republican</party>
-        <name>Tom Price</name>
-        <name_slug>tom-price</name_slug>
-        <first_name>Tom</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Price</last_name>
+        <name>Karen Handel</name>
+        <name_slug>karen-handel</name_slug>
+        <first_name>Karen</first_name>
+        <middle_name>Christine</middle_name>
+        <last_name>Handel</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>TAHM PRICE</pronunciation>
-        <gender>male</gender>
+        <pronunciation>KA-ren HAN-del</pronunciation>
+        <gender>female</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>presbyterian</religion>
+        <religion>roman-catholic</religion>
         <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1954-10-08</date_of_birth>
-        <entered_office>2005-01-04</entered_office>
+        <date_of_birth>1962-04-18</date_of_birth>
+        <entered_office>2017-06-26</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Tom Price, a Representative from Georgia; born in Lansing, Ingham County, Mich., October 8, 1954; graduated from Dearborn High School, Dearborn, Mich., 1972; A.B., University of Michigan, Ann Arbor, Mich., 1976; M.D., University of Michigan, Ann Arbor, Mich., 1979; physician; member of the Georgia state senate, 1997-2004; elected as a Republican to the One Hundred Ninth and to the six succeeding Congresses (January 3, 2005-February 10, 2017); chairman, Committee on Budget (One Hundred Fourteenth Congress); Secretary of Health and Human Services in the Cabinet of President Donald J. Trump, 2017-present.</biography>
+        <biography>Karen Handel, a Representative from Georgia; born in Washington, District of Columbia, April 18, 1962; graduated from Frederick Douglass High School, Upper Marlboro, Md., 1980; attended Prince George’s County Community College, Largo, Md.; attended University of Maryland University College, Adelphi, Md.; business executive; staff, Governor Sonny Perdue of Georgia, 2002-2003; chairwoman, Fulton County (Ga.) commission, 2003-2006; Secretary of State of Georgia, 2007-2009; unsuccessful candidate for nomination for Governor of Georgia in 2010; unsuccessful candidate for nomination to the United States Senate in 2014; elected as a Republican to the One Hundred Fifteenth Congress, by special election, to fill the vacancy caused by the resignation of United States Representative Tom Price (June 20, 2017-present).</biography>
         <phone>202-225-4501</phone>
-        <fax>202-225-4656</fax>
+        <fax>null</fax>
         <latitude>38.8863235</latitude>
         <longitude>-77.011373</longitude>
         <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
@@ -6713,12 +6713,12 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>https://tomprice.house.gov</website>
-        <contact_page>https://tomprice.house.gov/contact-me</contact_page>
-        <facebook_url>https://www.facebook.com/reptomprice/</facebook_url>
-        <twitter_handle>RepTomPrice</twitter_handle>
-        <twitter_url>https://twitter.com/RepTomPrice</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/tom-price.jpg</photo_url>
+        <website>https://handel.house.gov/</website>
+        <contact_page>https://handel.house.gov/contact</contact_page>
+        <facebook_url>https://www.facebook.com/handel.karen</facebook_url>
+        <twitter_handle>karenhandel</twitter_handle>
+        <twitter_url>https://twitter.com/karenhandel</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/karen-handel.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Georgia</state_name>
@@ -7202,7 +7202,7 @@
         <date_of_birth>1951-05-04</date_of_birth>
         <entered_office>2011-01-05</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Colleen Hanabusa, a Representative from Hawaii; born in Honolulu, Honolulu County, Hawaii, May 4, 1951; graduated from St. Andrewâ€™s Priory School, Honolulu, Hawaii, 1969; B.A., University of Hawaii, Manoa, Hawaii, 1973; M.A., University of Hawaii, Manoa, Hawaii, 1975; J.D., University of Hawaii, Manoa, Hawaii, 1977; lawyer, private practice; member of the Hawaii state senate, 1998-2010, president, 2007-2010; unsuccessful candidate for nomination to the United States House of Representatives in 2006; elected as a Democrat to the One Hundred Twelfth and to the succeeding Congress (January 3, 2011-January 3, 2015); was not a candidate for reelection to the One Hundred Fourteenth Congress in 2014, but was an unsuccessful candidate for nomination to the United States Senate; lawyer, private practice; elected simultaneously as a Democrat to the One Hundred Fourteenth and the One Hundred Fifteenth Congresses, by special election, to fill the vacancy caused by the death of United States Representative Mark Takai (November 8, 2016-present).</biography>
+        <biography>Colleen Hanabusa, a Representative from Hawaii; born in Honolulu, Honolulu County, Hawaii, May 4, 1951; graduated from St. Andrew's Priory School, Honolulu, Hawaii, 1969; B.A., University of Hawaii, Manoa, Hawaii, 1973; M.A., University of Hawaii, Manoa, Hawaii, 1975; J.D., University of Hawaii, Manoa, Hawaii, 1977; lawyer, private practice; member of the Hawaii state senate, 1998-2010, president, 2007-2010; unsuccessful candidate for nomination to the United States House of Representatives in 2006; elected as a Democrat to the One Hundred Twelfth and to the succeeding Congress (January 3, 2011-January 3, 2015); was not a candidate for reelection to the One Hundred Fourteenth Congress in 2014, but was an unsuccessful candidate for nomination to the United States Senate; lawyer, private practice; elected simultaneously as a Democrat to the One Hundred Fourteenth and the One Hundred Fifteenth Congresses, by special election, to fill the vacancy caused by the death of United States Representative Mark Takai (November 8, 2016-present).</biography>
         <phone>202-225-2726</phone>
         <fax>202-225-0688</fax>
         <latitude>38.8863235</latitude>
@@ -7818,7 +7818,7 @@
         <date_of_birth>1953-12-10</date_of_birth>
         <entered_office>1993-01-05</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Luis GutiÃ©rrez, a Representative from Illinois; born in Chicago, Cook County, Ill., December 10, 1953; B.A., Northeastern Illinois University, DeKalb, Ill., 1974; teacher; social worker, Illinois state department of children and family services; administrative assistant, Chicago, Ill., mayorâ€™s office subcommittee on infrastructure, 1984-1985; co-founder, West Town-26th Ward Independent Political Organization, 1985; alderman, Chicago, Ill., city council, 1986-1993, president pro tem, 1989-1992; delegate, Democratic National Committee, 1984; elected as a Democrat to the One Hundred Third and to the twelve succeeding Congresses (January 3, 1993-present).</biography>
+        <biography>Luis GutiÃ©rrez, a Representative from Illinois; born in Chicago, Cook County, Ill., December 10, 1953; B.A., Northeastern Illinois University, DeKalb, Ill., 1974; teacher; social worker, Illinois state department of children and family services; administrative assistant, Chicago, Ill., mayor's office subcommittee on infrastructure, 1984-1985; co-founder, West Town-26th Ward Independent Political Organization, 1985; alderman, Chicago, Ill., city council, 1986-1993, president pro tem, 1989-1992; delegate, Democratic National Committee, 1984; elected as a Democrat to the One Hundred Third and to the twelve succeeding Congresses (January 3, 1993-present).</biography>
         <phone>202-225-8203</phone>
         <fax>202-225-7810</fax>
         <latitude>38.8863235</latitude>
@@ -8826,7 +8826,7 @@
         <date_of_birth>1970-02-09</date_of_birth>
         <entered_office>2011-01-05</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Todd Rokita, a Representative from Indiana; born in Chicago, Cook County, Ill., February 9, 1970; graduated from Munster High School, Munster, Ind., 1988; B.A., Wabash College, Crawfordsville, Ind., 1992; J.D., Robert H. McKinney School of Law, Indiana University, Indianapolis, Ind., 1995; lawyer, private practice; general counsel, Indiana state secretary of stateâ€™s office, 1997-2000; Indiana state deputy secretary of state, 2000-2002; Indiana state secretary of state, 2002-2010; elected as a Republican to the One Hundred Twelfth and to the three succeeding Congresses (January 3, 2011-present).</biography>
+        <biography>Todd Rokita, a Representative from Indiana; born in Chicago, Cook County, Ill., February 9, 1970; graduated from Munster High School, Munster, Ind., 1988; B.A., Wabash College, Crawfordsville, Ind., 1992; J.D., Robert H. McKinney School of Law, Indiana University, Indianapolis, Ind., 1995; lawyer, private practice; general counsel, Indiana state secretary of state's office, 1997-2000; Indiana state deputy secretary of state, 2000-2002; Indiana state secretary of state, 2002-2010; elected as a Republican to the One Hundred Twelfth and to the three succeeding Congresses (January 3, 2011-present).</biography>
         <phone>202-225-5037</phone>
         <fax>202-226-0544</fax>
         <latitude>38.8863235</latitude>
@@ -9303,36 +9303,36 @@
         <state_code_slug>ks</state_code_slug>
         <district>4</district>
         <at_large>false</at_large>
-        <vacant>true</vacant>
+        <vacant>false</vacant>
         <bioguide>null</bioguide>
         <thomas>null</thomas>
-        <govtrack>null</govtrack>
-        <opensecrets>null</opensecrets>
-        <votesmart>null</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
+        <govtrack>412735</govtrack>
+        <opensecrets>N00040712</opensecrets>
+        <votesmart>125031</votesmart>
+        <fec>H8KS04112</fec>
+        <maplight>2246</maplight>
+        <wikidata>Q7363747</wikidata>
         <google_entity_id>null</google_entity_id>
         <title>representative</title>
-        <party>null</party>
-        <name> </name>
-        <name_slug>null</name_slug>
-        <first_name>null</first_name>
+        <party>republican</party>
+        <name>Ron Estes</name>
+        <name_slug>ron-estes</name_slug>
+        <first_name>Ron</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
+        <last_name>Estes</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>null</pronunciation>
-        <gender>null</gender>
-        <ethnicity>null</ethnicity>
-        <religion>null</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>null</date_of_birth>
-        <entered_office>null</entered_office>
-        <term_end>null</term_end>
-        <biography>null</biography>
-        <phone>null</phone>
-        <fax>null</fax>
+        <pronunciation>RAWN ES-tez</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>lutheran</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1956-07-19</date_of_birth>
+        <entered_office>2017-04-25</entered_office>
+        <term_end>2019-01-03</term_end>
+        <biography>Ronald Gene Estes (born July 19, 1956) is an American politician and member of the Republican Party who has served as the U.S. Representative for Kansas's 4th congressional district since April 25, 2017. He was previously the 39th Kansas State Treasurer, serving from 2011 to 2017.</biography>
+        <phone>202-225-6216</phone>
+        <fax>202-225-3489</fax>
         <latitude>38.8863235</latitude>
         <longitude>-77.011373</longitude>
         <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
@@ -9345,12 +9345,12 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>null</website>
-        <contact_page>null</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>null</twitter_handle>
-        <twitter_url>null</twitter_url>
-        <photo_url>null</photo_url>
+        <website>https://estes.house.gov/</website>
+        <contact_page>https://estes.house.gov/contact/</contact_page>
+        <facebook_url>https://www.facebook.com/RepRonEstes</facebook_url>
+        <twitter_handle>RepRonEstes</twitter_handle>
+        <twitter_url>https://twitter.com/RepRonEstes</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/ron-estes.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Kentucky</state_name>
@@ -10282,7 +10282,7 @@
         <date_of_birth>1963-07-17</date_of_birth>
         <entered_office>2013-12-12</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Katherine Clark, a Representative from Massachusetts; born in New Haven, New Haven County, Conn., July 17, 1963; B.A., Saint Lawrence University, Canton, N.Y., 1985; J.D., Cornell University, Ithaca, N.Y., 1989; M.P.A., John F. Kennedy School of Government, Harvard University, Cambridge, Mass., 1997; lawyer, private practice; lawyer, Colorado district attorneyâ€™s council; general counsel, Massachusetts state office of child care services; policy division chief, Office of the Attorney General, State of Massachusetts; clerk, federal court, 1990-1991; prosecutor, Office of the Attorney General, State of Colorado, 1991-1993; member of the Melrose, Mass. school committee, 2001-2007; member of the Massachusetts state house of representatives, 2008-2010; member of the Massachusetts state senate, 2010-2013; elected as a Democrat to the One Hundred Thirteenth Congress, by special election, to fill the vacancy caused by the resignation of United States Representative Edward J. Markey, and to the two succeeding Congresses (December 10, 2013-present).</biography>
+        <biography>Katherine Clark, a Representative from Massachusetts; born in New Haven, New Haven County, Conn., July 17, 1963; B.A., Saint Lawrence University, Canton, N.Y., 1985; J.D., Cornell University, Ithaca, N.Y., 1989; M.P.A., John F. Kennedy School of Government, Harvard University, Cambridge, Mass., 1997; lawyer, private practice; lawyer, Colorado district attorney's council; general counsel, Massachusetts state office of child care services; policy division chief, Office of the Attorney General, State of Massachusetts; clerk, federal court, 1990-1991; prosecutor, Office of the Attorney General, State of Colorado, 1991-1993; member of the Melrose, Mass. school committee, 2001-2007; member of the Massachusetts state house of representatives, 2008-2010; member of the Massachusetts state senate, 2010-2013; elected as a Democrat to the One Hundred Thirteenth Congress, by special election, to fill the vacancy caused by the resignation of United States Representative Edward J. Markey, and to the two succeeding Congresses (December 10, 2013-present).</biography>
         <phone>202-225-2836</phone>
         <fax>202-225-2836</fax>
         <latitude>38.8863235</latitude>
@@ -10618,7 +10618,7 @@
         <date_of_birth>1946-01-31</date_of_birth>
         <entered_office>2003-01-07</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Dutch Ruppersberger, a Representative from Maryland; born in Baltimore, Md., on January 31, 1946; graduated from Baltimore City College, Baltimore, Md., 1963; attended University of Maryland, College Park, Md.; J.D., University of Baltimore School of Law, Baltimore, Md., 1970; lawyer, private practice; assistant Maryland stateâ€™s attorney, 1972-1980; member of the Baltimore County, Md., county council, 1985-1994; delegate, Democrat National Convention, 1996 and 2000; Baltimore, Md., county executive, 1994-2002; elected as a Democrat to the One Hundred Eighth and to the seven succeeding Congresses (January 3, 2003-present).</biography>
+        <biography>Dutch Ruppersberger, a Representative from Maryland; born in Baltimore, Md., on January 31, 1946; graduated from Baltimore City College, Baltimore, Md., 1963; attended University of Maryland, College Park, Md.; J.D., University of Baltimore School of Law, Baltimore, Md., 1970; lawyer, private practice; assistant Maryland state's attorney, 1972-1980; member of the Baltimore County, Md., county council, 1985-1994; delegate, Democrat National Convention, 1996 and 2000; Baltimore, Md., county executive, 1994-2002; elected as a Democrat to the One Hundred Eighth and to the seven succeeding Congresses (January 3, 2003-present).</biography>
         <phone>202-225-3061</phone>
         <fax>202-225-3094</fax>
         <latitude>38.8863235</latitude>
@@ -10786,7 +10786,7 @@
         <date_of_birth>1939-06-14</date_of_birth>
         <entered_office>1981-01-05</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Steny Hoyer, a Representative from Maryland; born in New York City, N.Y., June 14, 1939; graduated from Suitland High School, Suitland, Md., 1957; B.S., University of Maryland, College Park, 1963; J.D., Georgetown University Law Center, Washington, D.C., 1966; lawyer, private practice; member of the Maryland state senate, 1966-1979, and president, 1975-1979; member of the Maryland state board for higher education, 1978-1981; delegate to Democratic National Conventions, 1968, 1974, 1976, and 1984; elected as a Democrat to the Ninety-seventh Congress, by special election, to fill the vacancy created by H. Res. 80, which declared United States Representative Gladys Noon Spellmanâ€™s seat vacant due to an incapacitating illness, and reelected to the eighteen succeeding Congresses (May 19, 1981-present); chairman, House Democratic Caucus (One Hundred First through One Hundred Third Congresses); minority whip (One Hundred Eighth, One Hundred Ninth, and One Hundred Twelfth through One Hundred Fifteenth Congresses); majority leader (One Hundred Tenth and One Hundred Eleventh Congresses).</biography>
+        <biography>Steny Hoyer, a Representative from Maryland; born in New York City, N.Y., June 14, 1939; graduated from Suitland High School, Suitland, Md., 1957; B.S., University of Maryland, College Park, 1963; J.D., Georgetown University Law Center, Washington, D.C., 1966; lawyer, private practice; member of the Maryland state senate, 1966-1979, and president, 1975-1979; member of the Maryland state board for higher education, 1978-1981; delegate to Democratic National Conventions, 1968, 1974, 1976, and 1984; elected as a Democrat to the Ninety-seventh Congress, by special election, to fill the vacancy created by H. Res. 80, which declared United States Representative Gladys Noon Spellman's seat vacant due to an incapacitating illness, and reelected to the eighteen succeeding Congresses (May 19, 1981-present); chairman, House Democratic Caucus (One Hundred First through One Hundred Third Congresses); minority whip (One Hundred Eighth, One Hundred Ninth, and One Hundred Twelfth through One Hundred Fifteenth Congresses); majority leader (One Hundred Tenth and One Hundred Eleventh Congresses).</biography>
         <phone>202-225-4131</phone>
         <fax>null</fax>
         <latitude>38.8863235</latitude>
@@ -11794,7 +11794,7 @@
         <date_of_birth>1929-05-16</date_of_birth>
         <entered_office>1965-01-04</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>John Conyers, a Representative from Michigan; born in Detroit, Wayne County, Mich., May 16, 1929; attended Detroit public schools; B.A., Wayne State University, Detroit, Mich., 1957; LL.B., Wayne State Law School, Detroit, Mich., 1958; lawyer, private practice; Michigan National Guard, 1948-1950; United States Army, 1950-1954; United States Army Reserve, 1954-1957; staff, United States Representative John D. Dingell, Jr., of Michigan, 1958-1961; general counsel for three labor locals in Detroit, 1959-1964; executive board member, Detroit, Mich., American Civil Liberties Union, 1964 to present; executive board member, Detroit, Mich., NAACP, 1963 to present; referee for Michigan workmenâ€™s compensation department, 1961-1963; elected as a Democrat to the Eighty-ninth and to the twenty-six succeeding Congresses (January 3, 1965-present); one of the managers appointed by the House of Representatives in 1988 to conduct the impeachment proceedings against Alcee Lamar Hastings, judge of the United States District Court for the Southern District of Florida; chairman, Committee on Government Operations (One Hundred First through One Hundred Third Congresses); chairman, Committee on the Judiciary (One Hundred Tenth and One Hundred Eleventh Congresses).</biography>
+        <biography>John Conyers, a Representative from Michigan; born in Detroit, Wayne County, Mich., May 16, 1929; attended Detroit public schools; B.A., Wayne State University, Detroit, Mich., 1957; LL.B., Wayne State Law School, Detroit, Mich., 1958; lawyer, private practice; Michigan National Guard, 1948-1950; United States Army, 1950-1954; United States Army Reserve, 1954-1957; staff, United States Representative John D. Dingell, Jr., of Michigan, 1958-1961; general counsel for three labor locals in Detroit, 1959-1964; executive board member, Detroit, Mich., American Civil Liberties Union, 1964 to present; executive board member, Detroit, Mich., NAACP, 1963 to present; referee for Michigan workmen's compensation department, 1961-1963; elected as a Democrat to the Eighty-ninth and to the twenty-six succeeding Congresses (January 3, 1965-present); one of the managers appointed by the House of Representatives in 1988 to conduct the impeachment proceedings against Alcee Lamar Hastings, judge of the United States District Court for the Southern District of Florida; chairman, Committee on Government Operations (One Hundred First through One Hundred Third Congresses); chairman, Committee on the Judiciary (One Hundred Tenth and One Hundred Eleventh Congresses).</biography>
         <phone>202-225-5126</phone>
         <fax>202-225-0072</fax>
         <latitude>38.8863235</latitude>
@@ -11906,7 +11906,7 @@
         <date_of_birth>1964-04-06</date_of_birth>
         <entered_office>2007-01-04</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Timothy Walz, a Representative from Minnesota; born in West Point, Cuming County, Nebr., April 6, 1964; graduated from Butte High School, Butte, Nebr.; B.S., Chadron State College, Chadron, Nebr., 1989; M.S., Minnesota State University, 2001; attended Saint Maryâ€™s University of Minnesota, Winona, Minn.; Nebraska National Guard, 1981-1996; Minnesota National Guard, 1996-2005; teacher; elected as a Democrat to the One Hundred Tenth and to the five succeeding Congresses (January 3, 2007-present).</biography>
+        <biography>Timothy Walz, a Representative from Minnesota; born in West Point, Cuming County, Nebr., April 6, 1964; graduated from Butte High School, Butte, Nebr.; B.S., Chadron State College, Chadron, Nebr., 1989; M.S., Minnesota State University, 2001; attended Saint Mary's University of Minnesota, Winona, Minn.; Nebraska National Guard, 1981-1996; Minnesota National Guard, 1996-2005; teacher; elected as a Democrat to the One Hundred Tenth and to the five succeeding Congresses (January 3, 2007-present).</biography>
         <phone>202-225-2472</phone>
         <fax>null</fax>
         <latitude>38.8863235</latitude>
@@ -12298,7 +12298,7 @@
         <date_of_birth>1943-12-17</date_of_birth>
         <entered_office>1975-01-14</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Richard Nolan, a Representative from Minnesota; born in Brainerd, Crow Wing County, Minn., December 17, 1943; graduated from Brainerd High School, Brainerd, Minn.,, 1962; attended St. Johnâ€™s University, Collegeville, Minn., 1962; B.A., University of Minnesota, Minneapolis, Minn., 1966; postgraduate work in public administration and policy formation, University of Maryland, College Park, Md., 1966; postgraduate work in education, St. Cloud State College, St. Cloud, Minn.; pursued a career in business and education; teacher of social studies in Royalton, Minn., schools, 1968-1972; member of the Minnesota state house of representatives, 1969-1973; elected as a Democrat to the Ninety-fourth and to the two succeeding Congresses (January 3, 1975-January 3, 1981); was not a candidate for reelection to the Ninety-seventh Congress in 1980; president, United States Export Corporation, 1981-1986; president, Minnesota World Trade Center, St. Paul, Minn., 1987-1994; business executive and owner; elected as a Democrat to the One Hundred Thirteenth and to the two succeeding Congresses (January 3, 2013-present).</biography>
+        <biography>Richard Nolan, a Representative from Minnesota; born in Brainerd, Crow Wing County, Minn., December 17, 1943; graduated from Brainerd High School, Brainerd, Minn.,, 1962; attended St. John's University, Collegeville, Minn., 1962; B.A., University of Minnesota, Minneapolis, Minn., 1966; postgraduate work in public administration and policy formation, University of Maryland, College Park, Md., 1966; postgraduate work in education, St. Cloud State College, St. Cloud, Minn.; pursued a career in business and education; teacher of social studies in Royalton, Minn., schools, 1968-1972; member of the Minnesota state house of representatives, 1969-1973; elected as a Democrat to the Ninety-fourth and to the two succeeding Congresses (January 3, 1975-January 3, 1981); was not a candidate for reelection to the Ninety-seventh Congress in 1980; president, United States Export Corporation, 1981-1986; president, Minnesota World Trade Center, St. Paul, Minn., 1987-1994; business executive and owner; elected as a Democrat to the One Hundred Thirteenth and to the two succeeding Congresses (January 3, 2013-present).</biography>
         <phone>202-225-6211</phone>
         <fax>202-225-0699</fax>
         <latitude>38.8863235</latitude>
@@ -12522,7 +12522,7 @@
         <date_of_birth>1960-10-13</date_of_birth>
         <entered_office>2011-01-05</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Vicky Hartzler, a Representative from Missouri; born in Harrisonville, Cass County, Mo., October 13, 1960; graduated from Archie High School, Archie, Mo., 1979; B.S., University of Missouri, Columbia, Mo., 1983; M.S., University of Central Missouri, Warrensburg, Mo., 1992; teacher; farmer; business owner; member of the Missouri state house of representatives, 1995-2001; chairperson, Missouri Womenâ€™s Council, 2005; elected as a Republican to the One Hundred Twelfth and to the three succeeding Congresses (January 3, 2011-present). (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTag</biography>
+        <biography>Vicky Hartzler, a Representative from Missouri; born in Harrisonville, Cass County, Mo., October 13, 1960; graduated from Archie High School, Archie, Mo., 1979; B.S., University of Missouri, Columbia, Mo., 1983; M.S., University of Central Missouri, Warrensburg, Mo., 1992; teacher; farmer; business owner; member of the Missouri state house of representatives, 1995-2001; chairperson, Missouri Women's Council, 2005; elected as a Republican to the One Hundred Twelfth and to the three succeeding Congresses (January 3, 2011-present). (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTag</biography>
         <phone>202-225-2876</phone>
         <fax>202-225-0148</fax>
         <latitude>38.8863235</latitude>
@@ -14202,7 +14202,7 @@
         <date_of_birth>1946-05-12</date_of_birth>
         <entered_office>1995-01-04</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Frank LoBiondo, a Representative from New Jersey; born in Bridgeton, Cumberland County, N.J., May 12, 1946; graduated from Georgetown Preparatory School, Rockville, Md., 1964; B.A., St. Josephâ€™s University, Philadelphia, Pa., 1968; freeholder, Cumberland County, N.J., 1985-1988; member of the New Jersey state general assembly, 1988-1994; elected as a Republican to the One Hundred Fourth and to the eleven succeeding Congresses (January 3, 1995-present).</biography>
+        <biography>Frank LoBiondo, a Representative from New Jersey; born in Bridgeton, Cumberland County, N.J., May 12, 1946; graduated from Georgetown Preparatory School, Rockville, Md., 1964; B.A., St. Joseph's University, Philadelphia, Pa., 1968; freeholder, Cumberland County, N.J., 1985-1988; member of the New Jersey state general assembly, 1988-1994; elected as a Republican to the One Hundred Fourth and to the eleven succeeding Congresses (January 3, 1995-present).</biography>
         <phone>202-225-6572</phone>
         <fax>202-225-3318</fax>
         <latitude>38.8863235</latitude>
@@ -14314,7 +14314,7 @@
         <date_of_birth>1953-03-04</date_of_birth>
         <entered_office>1981-01-05</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Christopher Smith, a Representative from New Jersey; born in Rahway, Union County, N.J., March 4, 1953; graduated from St. Maryâ€™s High School, Perth Amboy, N.J., 1971; B.S., Trenton State College, Ewing, N.J., 1975; attended Worcester College, Worcester, England, 1974; businessman, family sporting goods company; legislative agent for New Jersey state legislature, 1979; unsuccessful candidate for election to the Ninety-sixth Congress in 1978; elected as a Republican to the Ninety-seventh and to the eighteen succeeding Congresses (January 3, 1981-present); chair, Committee on Veterans Affairs (One Hundred Seventh through One Hundred Eighth Congresses).</biography>
+        <biography>Christopher Smith, a Representative from New Jersey; born in Rahway, Union County, N.J., March 4, 1953; graduated from St. Mary's High School, Perth Amboy, N.J., 1971; B.S., Trenton State College, Ewing, N.J., 1975; attended Worcester College, Worcester, England, 1974; businessman, family sporting goods company; legislative agent for New Jersey state legislature, 1979; unsuccessful candidate for election to the Ninety-sixth Congress in 1978; elected as a Republican to the Ninety-seventh and to the eighteen succeeding Congresses (January 3, 1981-present); chair, Committee on Veterans Affairs (One Hundred Seventh through One Hundred Eighth Congresses).</biography>
         <phone>202-225-3765</phone>
         <fax>202-225-7768</fax>
         <latitude>38.8863235</latitude>
@@ -14538,7 +14538,7 @@
         <date_of_birth>1951-01-26</date_of_birth>
         <entered_office>2006-11-13</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Albio Sires, a Representative from New Jersey; born in Bejucal, Cuba, January 26, 1951; graduated from Memorial High School, West New York, N.J.; B.A., St. Peterâ€™s College, Jersey City, N.J., 1974; M.A., Middlebury College, Middlebury, Vt., 1985; businessman; teacher; unsuccessful candidate for election to the One Hundredth Congress in 1986; mayor of West New York, N.J., 1995- 2007; member of the New Jersey state general assembly, 2000-2006, speaker, 2002-2006; elected as a Democrat to the One Hundred Ninth Congress, by special election, to fill the vacancy caused by the resignation of United States Representative Robert Menendez, and reelected to the six succeeding Congresses (November 7, 2006-present).</biography>
+        <biography>Albio Sires, a Representative from New Jersey; born in Bejucal, Cuba, January 26, 1951; graduated from Memorial High School, West New York, N.J.; B.A., St. Peter's College, Jersey City, N.J., 1974; M.A., Middlebury College, Middlebury, Vt., 1985; businessman; teacher; unsuccessful candidate for election to the One Hundredth Congress in 1986; mayor of West New York, N.J., 1995- 2007; member of the New Jersey state general assembly, 2000-2006, speaker, 2002-2006; elected as a Democrat to the One Hundred Ninth Congress, by special election, to fill the vacancy caused by the resignation of United States Representative Robert Menendez, and reelected to the six succeeding Congresses (November 7, 2006-present).</biography>
         <phone>202-225-7919</phone>
         <fax>202-226-0792</fax>
         <latitude>38.8863235</latitude>
@@ -14818,7 +14818,7 @@
         <date_of_birth>1959-10-24</date_of_birth>
         <entered_office>2013-01-03</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Michelle Lujan Grisham, a Representative from New Mexico; born in Los Alamos, Los Alamos County, N.Mex., October 24, 1959; graduated from St. Michaelâ€™s High School, Santa Fe, N.Mex., 1977; B.U.S., University of New Mexico, Albuquerque, N.Mex., 1981; J.D., University of New Mexico, 1987; lawyer, New Mexico state bar association; business executive; director, New Mexico state agency on aging, 1991-2002; New Mexico secretary of aging and long-term services, 2002-2004; New Mexico secretary of health, 2004-2007; unsuccessful nominee for election to the One Hundred Eleventh Congress in 2008; Bernalillo County, N.Mex., board of commissioners, 2010-2012; elected as a Democrat to the One Hundred Thirteenth Congress and to the two succeeding Congresses (January 3, 2013-present).</biography>
+        <biography>Michelle Lujan Grisham, a Representative from New Mexico; born in Los Alamos, Los Alamos County, N.Mex., October 24, 1959; graduated from St. Michael's High School, Santa Fe, N.Mex., 1977; B.U.S., University of New Mexico, Albuquerque, N.Mex., 1981; J.D., University of New Mexico, 1987; lawyer, New Mexico state bar association; business executive; director, New Mexico state agency on aging, 1991-2002; New Mexico secretary of aging and long-term services, 2002-2004; New Mexico secretary of health, 2004-2007; unsuccessful nominee for election to the One Hundred Eleventh Congress in 2008; Bernalillo County, N.Mex., board of commissioners, 2010-2012; elected as a Democrat to the One Hundred Thirteenth Congress and to the two succeeding Congresses (January 3, 2013-present).</biography>
         <phone>202-225-6316</phone>
         <fax>202-225-4975</fax>
         <latitude>38.8863235</latitude>
@@ -15658,7 +15658,7 @@
         <date_of_birth>1964-11-21</date_of_birth>
         <entered_office>2007-01-04</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Yvette Clarke, a Representative from New York; born in Brooklyn, Kings County, N.Y., November 21, 1964; attended Oberlin College, Oberlin, N.Y., 1982-1986; childcare specialist; staff, state senator Velmanette Montgomery, 1989-1991; executive assistant, New York state Workersâ€™ Compensation Board, 1992-1993; youth program director; business development director; member of the New York, N.Y., city council, 2002-2007; unsuccessful candidate for nomination for the One Hundred Ninth Congress in 2004; elected as a Democrat to the One Hundred Tenth and to the five succeeding Congresses (January 3, 2007-present).</biography>
+        <biography>Yvette Clarke, a Representative from New York; born in Brooklyn, Kings County, N.Y., November 21, 1964; attended Oberlin College, Oberlin, N.Y., 1982-1986; childcare specialist; staff, state senator Velmanette Montgomery, 1989-1991; executive assistant, New York state Workers' Compensation Board, 1992-1993; youth program director; business development director; member of the New York, N.Y., city council, 2002-2007; unsuccessful candidate for nomination for the One Hundred Ninth Congress in 2004; elected as a Democrat to the One Hundred Tenth and to the five succeeding Congresses (January 3, 2007-present).</biography>
         <phone>202-225-6231</phone>
         <fax>202-226-0112</fax>
         <latitude>38.8863235</latitude>
@@ -15770,7 +15770,7 @@
         <date_of_birth>1956-11-06</date_of_birth>
         <entered_office>2015-05-12</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Daniel Donovan, a Representative from New York; born in Staten Island, Richmond County, N.Y., November 6, 1956; graduated from Monsignor Farrell High School, Staten Island, N.Y., 1974; B.A., St. Johnâ€™s University, New York, N.Y., 1978; J.D., Fordham University, New York, N.Y., 1988; detective investigator; youth counselor; Manhattan, N.Y. assistant district attorney, 1989-1996; staff, Staten Island, N.Y. borough president Guy V. Molinari, 1996-2002; Staten Island, N.Y. deputy borough president, 2002-2003; Richmond County, N.Y. district attorney, 2003-2015; elected as a Republican to the One Hundred Fourteenth Congress, by special election, to fill the vacancy caused by the resignation of United States Representative Michael G. Grimm, and reelected to the succeeding Congress (May 5, 2015-present).</biography>
+        <biography>Daniel Donovan, a Representative from New York; born in Staten Island, Richmond County, N.Y., November 6, 1956; graduated from Monsignor Farrell High School, Staten Island, N.Y., 1974; B.A., St. John's University, New York, N.Y., 1978; J.D., Fordham University, New York, N.Y., 1988; detective investigator; youth counselor; Manhattan, N.Y. assistant district attorney, 1989-1996; staff, Staten Island, N.Y. borough president Guy V. Molinari, 1996-2002; Staten Island, N.Y. deputy borough president, 2002-2003; Richmond County, N.Y. district attorney, 2003-2015; elected as a Republican to the One Hundred Fourteenth Congress, by special election, to fill the vacancy caused by the resignation of United States Representative Michael G. Grimm, and reelected to the succeeding Congress (May 5, 2015-present).</biography>
         <phone>202-225-3371</phone>
         <fax>718-630-5388</fax>
         <latitude>38.8863235</latitude>
@@ -17282,7 +17282,7 @@
         <date_of_birth>1952-10-29</date_of_birth>
         <entered_office>2008-11-19</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Marcia Fudge, a Representative from Ohio; born in Cleveland, Cuyahoga County, Ohio, October 29, 1952; graduated from Shaker Heights High School, Shaker Heights, Ohio, 1971; B.S., Ohio State University, Columbus, Ohio, 1975; J.D., Cleveland Marshall College of Law, Cleveland State University, Cleveland, Ohio, 1983; lawyer, private practice; director, Cuyahoga County, Ohio, prosecutorâ€™s office; director, Cuyahoga County, Ohio, budget commission; director, Cuyahoga County, Ohio, personal property tax department; staff, United States Representative Stephanie Tubbs Jones of Ohio, 1999-2000; mayor of Warrensville Heights, Ohio, 2000-2008; elected as a Democrat to the One Hundred Tenth Congress, by special election, to fill the vacancy caused by the death of United States Representative Stephanie Tubbs Jones, and reelected to the five succeeding Congresses (November 18, 2008-present).</biography>
+        <biography>Marcia Fudge, a Representative from Ohio; born in Cleveland, Cuyahoga County, Ohio, October 29, 1952; graduated from Shaker Heights High School, Shaker Heights, Ohio, 1971; B.S., Ohio State University, Columbus, Ohio, 1975; J.D., Cleveland Marshall College of Law, Cleveland State University, Cleveland, Ohio, 1983; lawyer, private practice; director, Cuyahoga County, Ohio, prosecutor's office; director, Cuyahoga County, Ohio, budget commission; director, Cuyahoga County, Ohio, personal property tax department; staff, United States Representative Stephanie Tubbs Jones of Ohio, 1999-2000; mayor of Warrensville Heights, Ohio, 2000-2008; elected as a Democrat to the One Hundred Tenth Congress, by special election, to fill the vacancy caused by the death of United States Representative Stephanie Tubbs Jones, and reelected to the five succeeding Congresses (November 18, 2008-present).</biography>
         <phone>202-225-7032</phone>
         <fax>202-225-1339</fax>
         <latitude>38.8863235</latitude>
@@ -18010,7 +18010,7 @@
         <date_of_birth>1948-08-16</date_of_birth>
         <entered_office>1996-05-21</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Earl Blumenauer, a Representative from Oregon; born in Portland, Multnomah County, Oreg., August 16, 1948; graduated from Centennial High School, Portland, Oreg., 1966; B.A., Lewis and Clark College, Portland, Oreg., 1970; J.D., Lewis and Clark Law School, Portland, Oreg., 1976; assistant to the president of Portland State University, Portland, Oreg., 1970-1977; member of the Oregon state house of representatives, 1973-1978; member of the board of directors, Portland Community College, 1975-1981; Multnomah County, Oreg., commissioner, 1978-1985; Portland, Oreg., city commissioner, 1986-1996; served on the Governorâ€™s commission on higher education, 1990-1991; elected as a Democrat, by special election, to the One Hundred Fourth Congress to fill the vacancy caused by the resignation of United States Representative Ronald Lee Wyden, and reelected to the eleven succeeding Congresses (May 21, 1996-present).</biography>
+        <biography>Earl Blumenauer, a Representative from Oregon; born in Portland, Multnomah County, Oreg., August 16, 1948; graduated from Centennial High School, Portland, Oreg., 1966; B.A., Lewis and Clark College, Portland, Oreg., 1970; J.D., Lewis and Clark Law School, Portland, Oreg., 1976; assistant to the president of Portland State University, Portland, Oreg., 1970-1977; member of the Oregon state house of representatives, 1973-1978; member of the board of directors, Portland Community College, 1975-1981; Multnomah County, Oreg., commissioner, 1978-1985; Portland, Oreg., city commissioner, 1986-1996; served on the Governor's commission on higher education, 1990-1991; elected as a Democrat, by special election, to the One Hundred Fourth Congress to fill the vacancy caused by the resignation of United States Representative Ronald Lee Wyden, and reelected to the eleven succeeding Congresses (May 21, 1996-present).</biography>
         <phone>202-225-4811</phone>
         <fax>202-225-8941</fax>
         <latitude>38.8863235</latitude>
@@ -19496,35 +19496,35 @@
         <district>5</district>
         <at_large>false</at_large>
         <vacant>false</vacant>
-        <bioguide>M001182</bioguide>
-        <thomas>2059</thomas>
-        <govtrack>412474</govtrack>
-        <opensecrets>N00031412</opensecrets>
-        <votesmart>60348</votesmart>
-        <fec>H0SC05031</fec>
-        <maplight>1479</maplight>
-        <wikidata>Q1235731</wikidata>
-        <google_entity_id>kg:/m/0cp1sr_</google_entity_id>
+        <bioguide>null</bioguide>
+        <thomas>null</thomas>
+        <govtrack>412738</govtrack>
+        <opensecrets>N00027783</opensecrets>
+        <votesmart>47930</votesmart>
+        <fec>H8SC05158</fec>
+        <maplight>2248</maplight>
+        <wikidata>Q7287914</wikidata>
+        <google_entity_id>null</google_entity_id>
         <title>representative</title>
         <party>republican</party>
-        <name>Mick Mulvaney</name>
-        <name_slug>mick-mulvaney</name_slug>
-        <first_name>Mick</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Mulvaney</last_name>
-        <name_suffix>null</name_suffix>
+        <name>Ralph Norman</name>
+        <name_slug>ralph-norman</name_slug>
+        <first_name>Ralph</first_name>
+        <middle_name>Warren</middle_name>
+        <last_name>Norman</last_name>
+        <name_suffix>Jr.</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>MICK muhl-VAY-nee</pronunciation>
+        <pronunciation>RALF NOR-men</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>roman-catholic</religion>
+        <religion>presbyterian</religion>
         <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1967-07-21</date_of_birth>
-        <entered_office>2011-01-05</entered_office>
+        <date_of_birth>1953-06-20</date_of_birth>
+        <entered_office>2017-06-26</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Mick Mulvaney, a Representative from South Carolina; born in Alexandria, Va., July 21, 1967; graduated from Charlotte Catholic High School, Charlotte, N.C., 1985; B.S.F.S., Georgetown University, Washington, D.C., 1989; J.D., University of North Carolina, Chapel Hill, N.C., 1992; lawyer, private practice; real estate developer; member of the South Carolina state house of representatives, 2007-2009; member of the South Carolina state senate, 2009-2010; elected as a Republican to the One Hundred Twelfth and to the three succeeding Congresses (January 3, 2011-present).</biography>
+        <biography>Ralph Norman was born in York County, South Carolina, and currently resides in Rock Hill, where he is a real estate developer at the Warren Norman Company, a business founded by and named after Norman's father. He and his wife, Elaine have 4 children and 15 grandchildren.</biography>
         <phone>202-225-5501</phone>
-        <fax>202-225-0464</fax>
+        <fax>null</fax>
         <latitude>38.8863235</latitude>
         <longitude>-77.011373</longitude>
         <address_complete>2436 Rayburn Hob, Washington, DC 20515</address_complete>
@@ -19537,12 +19537,12 @@
         <address_state>DC</address_state>
         <address_zipcode>20515</address_zipcode>
         <address_type>null</address_type>
-        <website>https://mulvaney.house.gov</website>
-        <contact_page>https://mulvaney.house.gov/contact/email</contact_page>
-        <facebook_url>null</facebook_url>
-        <twitter_handle>RepMickMulvaney</twitter_handle>
-        <twitter_url>https://twitter.com/RepMickMulvaney</twitter_url>
-        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/mick-mulvaney.jpg</photo_url>
+        <website>https://norman.house.gov/</website>
+        <contact_page>https://norman.house.gov/contact</contact_page>
+        <facebook_url>https://www.facebook.com/RepRalphNorman/</facebook_url>
+        <twitter_handle>RepRalphNorman</twitter_handle>
+        <twitter_url>https://twitter.com/RepRalphNorman</twitter_url>
+        <photo_url>https://cdn.civil.services/us-house/headshots/512x512/ralph-norman.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>South Carolina</state_name>
@@ -19746,7 +19746,7 @@
         <date_of_birth>1945-07-21</date_of_birth>
         <entered_office>2009-01-06</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Phil Roe, a Representative from Tennessee, born in Clarksville, Montgomery County, Tenn., July 21, 1945; B.S., Austin Peay State University, Clarksville, Tenn., 1967; M.D., University of Tennessee, Knoxville, Tenn., 1970; United States Army, 1973-1974; physician; unsuccessful candidate for nomination to the One Hundred Tenth Congress in 2006; member of the Johnson City, Tenn., board of commissioners, 2003-2008; vice mayor of Johnson City, Tenn., 2003-2007; Mayor of Johnson City, Tenn., 2007-2009; elected as a Republican to the One Hundred Eleventh and to the four succeeding Congresses (January 3, 2009-present); chair, Committee on Veteransâ€™ Affairs (One Hundred Fifteenth Congress).</biography>
+        <biography>Phil Roe, a Representative from Tennessee, born in Clarksville, Montgomery County, Tenn., July 21, 1945; B.S., Austin Peay State University, Clarksville, Tenn., 1967; M.D., University of Tennessee, Knoxville, Tenn., 1970; United States Army, 1973-1974; physician; unsuccessful candidate for nomination to the One Hundred Tenth Congress in 2006; member of the Johnson City, Tenn., board of commissioners, 2003-2008; vice mayor of Johnson City, Tenn., 2003-2007; Mayor of Johnson City, Tenn., 2007-2009; elected as a Republican to the One Hundred Eleventh and to the four succeeding Congresses (January 3, 2009-present); chair, Committee on Veterans' Affairs (One Hundred Fifteenth Congress).</biography>
         <phone>202-225-6356</phone>
         <fax>202-225-5714</fax>
         <latitude>38.8863235</latitude>
@@ -20754,7 +20754,7 @@
         <date_of_birth>1962-01-14</date_of_birth>
         <entered_office>2005-01-04</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Michael McCaul, a Representative from Texas; born in Dallas, Dallas County, Tex., January 14, 1962; B.S., Trinity University, San Antonio, Tex., 1984; J.D., St. Maryâ€™s University, San Antonio, Tex., 1987; lawyer, private practice; deputy attorney general, office of the Texas state attorney general; elected as a Republican to the One Hundred Ninth and to the six succeeding Congresses (January 3, 2005-present); chair, Committee on Homeland Security (One Hundred Thirteenth through One Hundred Fifteenth Congresses).</biography>
+        <biography>Michael McCaul, a Representative from Texas; born in Dallas, Dallas County, Tex., January 14, 1962; B.S., Trinity University, San Antonio, Tex., 1984; J.D., St. Mary's University, San Antonio, Tex., 1987; lawyer, private practice; deputy attorney general, office of the Texas state attorney general; elected as a Republican to the One Hundred Ninth and to the six succeeding Congresses (January 3, 2005-present); chair, Committee on Homeland Security (One Hundred Thirteenth through One Hundred Fifteenth Congresses).</biography>
         <phone>202-225-2401</phone>
         <fax>202-225-5955</fax>
         <latitude>38.8863235</latitude>
@@ -21706,7 +21706,7 @@
         <date_of_birth>1961-12-12</date_of_birth>
         <entered_office>2011-01-05</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Blake Farenthold, a Representative from Texas; born in Corpus Christi, Nueces County, Tex., December 12, 1961; graduated from Incarnate Word High School, Corpus Christi, Tex.; B.S., University of Texas, Austin, Tex., 1985; J.D., St. Maryâ€™s University School of Law, San Antonio, Tex., 1989; lawyer, private practice; business owner; radio commentator; elected as a Republican to the One Hundred Twelfth and to the three succeeding Congresses (January 3, 2011-present).</biography>
+        <biography>Blake Farenthold, a Representative from Texas; born in Corpus Christi, Nueces County, Tex., December 12, 1961; graduated from Incarnate Word High School, Corpus Christi, Tex.; B.S., University of Texas, Austin, Tex., 1985; J.D., St. Mary's University School of Law, San Antonio, Tex., 1989; lawyer, private practice; business owner; radio commentator; elected as a Republican to the One Hundred Twelfth and to the three succeeding Congresses (January 3, 2011-present).</biography>
         <phone>202-225-7742</phone>
         <fax>202-226-1134</fax>
         <latitude>38.8863235</latitude>
@@ -21874,7 +21874,7 @@
         <date_of_birth>1935-12-03</date_of_birth>
         <entered_office>1993-01-05</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Eddie Bernice Johnson, a Representative from Texas; born in Waco, McLennan County, Tex., December 3, 1935; graduated from A.J. Moore High School, Waco, Tex., 1952; nursing certificate, St. Maryâ€™s College at the University of Notre Dame, Notre Dame, Ind., 1955; B.S., Texas Christian University, Fort Worth, Tex., 1967; M.P.A., Southern Methodist University, Dallas, Tex., 1976; chief psychiatric nurse and psychotherapist, Veterans Administration hospital, Dallas, Tex.; member of the Texas state house of representatives, 1972-1977; administrator, United States Department of Health, Education and Welfare, 1977-1981; business owner; member of the Texas state senate, 1986-1992; elected as a Democrat to the One Hundred Third and to the twelve succeeding Congresses (January 3, 1993-present).</biography>
+        <biography>Eddie Bernice Johnson, a Representative from Texas; born in Waco, McLennan County, Tex., December 3, 1935; graduated from A.J. Moore High School, Waco, Tex., 1952; nursing certificate, St. Mary's College at the University of Notre Dame, Notre Dame, Ind., 1955; B.S., Texas Christian University, Fort Worth, Tex., 1967; M.P.A., Southern Methodist University, Dallas, Tex., 1976; chief psychiatric nurse and psychotherapist, Veterans Administration hospital, Dallas, Tex.; member of the Texas state house of representatives, 1972-1977; administrator, United States Department of Health, Education and Welfare, 1977-1981; business owner; member of the Texas state senate, 1986-1992; elected as a Democrat to the One Hundred Third and to the twelve succeeding Congresses (January 3, 1993-present).</biography>
         <phone>202-225-8885</phone>
         <fax>202-226-1477</fax>
         <latitude>38.8863235</latitude>
@@ -22098,7 +22098,7 @@
         <date_of_birth>1963-02-13</date_of_birth>
         <entered_office>2013-01-03</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Filemon Vela, a Representative from Texas; born in Harlingen, Cameron County, Tex., February 13, 1963; graduated from St. Josephâ€™s Academy, Brownsville, Tex.; B.A., Georgetown University, Washington, D.C., 1985; J.D., University of Texas, Austin, Tex., 1987; civil attorney; elected as a Democrat to the One Hundred Thirteenth and to the two succeeding Congresses (January 3, 2013-present).</biography>
+        <biography>Filemon Vela, a Representative from Texas; born in Harlingen, Cameron County, Tex., February 13, 1963; graduated from St. Joseph's Academy, Brownsville, Tex.; B.A., Georgetown University, Washington, D.C., 1985; J.D., University of Texas, Austin, Tex., 1987; civil attorney; elected as a Democrat to the One Hundred Thirteenth and to the two succeeding Congresses (January 3, 2013-present).</biography>
         <phone>202-225-9901</phone>
         <fax>202-225-9770</fax>
         <latitude>38.8863235</latitude>
@@ -22658,7 +22658,7 @@
         <date_of_birth>1961-10-10</date_of_birth>
         <entered_office>2017-01-03</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Donald McEachin, a Representative from Virginia; born in Nuremberg, Germany, October 10, 1961; graduated from St. Christopherâ€™s School, Richmond, Va., 1979; B.S., American University, Washington, D.C., 1982, J.D., University of Virginia, Charlottesville, Va., 1986; M.Div., Samuel DeWitt Proctor School of Theology at Virginia Union University, Richmond, Va., 2008; lawyer, private practice; member of the Virginia state house of delegates, 1996-2002 and 2006-2008; member of the Virginia state senate, 2008-2016; elected as a Democrat to the One Hundred Fifteenth Congress (January 3, 2017-present).</biography>
+        <biography>Donald McEachin, a Representative from Virginia; born in Nuremberg, Germany, October 10, 1961; graduated from St. Christopher's School, Richmond, Va., 1979; B.S., American University, Washington, D.C., 1982, J.D., University of Virginia, Charlottesville, Va., 1986; M.Div., Samuel DeWitt Proctor School of Theology at Virginia Union University, Richmond, Va., 2008; lawyer, private practice; member of the Virginia state house of delegates, 1996-2002 and 2006-2008; member of the Virginia state senate, 2008-2016; elected as a Democrat to the One Hundred Fifteenth Congress (January 3, 2017-present).</biography>
         <phone>202-225-6365</phone>
         <fax>202-226-1170</fax>
         <latitude>38.8863235</latitude>
@@ -23834,7 +23834,7 @@
         <date_of_birth>1963-03-16</date_of_birth>
         <entered_office>1997-01-07</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Ron Kind, a Representative from Wisconsin; born in La Crosse, La Crosse County, Wis., March 16, 1963; B.A., Harvard University, Cambridge, Mass., 1985; M.A., London School of Economics, London, England, 1986; J.D., University of Minnesota School of Law, Minneapolis, Minn., 1990; lawyer, private practice; state prosecutor, La Crosse County, Wis., district attorneyâ€™s office, 1992-1996; elected as a Democrat to the One Hundred Fifth and to the ten succeeding Congresses (January 3, 1997-present).</biography>
+        <biography>Ron Kind, a Representative from Wisconsin; born in La Crosse, La Crosse County, Wis., March 16, 1963; B.A., Harvard University, Cambridge, Mass., 1985; M.A., London School of Economics, London, England, 1986; J.D., University of Minnesota School of Law, Minneapolis, Minn., 1990; lawyer, private practice; state prosecutor, La Crosse County, Wis., district attorney's office, 1992-1996; elected as a Democrat to the One Hundred Fifth and to the ten succeeding Congresses (January 3, 1997-present).</biography>
         <phone>202-225-5506</phone>
         <fax>202-225-5739</fax>
         <latitude>38.8863235</latitude>
@@ -24058,7 +24058,7 @@
         <date_of_birth>1971-10-03</date_of_birth>
         <entered_office>2011-01-05</entered_office>
         <term_end>2019-01-03</term_end>
-        <biography>Sean Duffy, a Representative from Wisconsin; born in Hayward, Sawyer County, Wis., October 3, 1971; B.A., St. Maryâ€™s College, Winona, Minn., 1994; J.D., William Mitchell College of Law, St. Paul, Minn., 1999; lawyer, private practice; prosecutor, Ashland County, Wis.; acting assistant district attorney and district attorney, Ashland County, Wis., 2002-2010; elected as a Republican to the One Hundred Twelfth and to the three succeeding Congresses (January 3, 2011-present).</biography>
+        <biography>Sean Duffy, a Representative from Wisconsin; born in Hayward, Sawyer County, Wis., October 3, 1971; B.A., St. Mary's College, Winona, Minn., 1994; J.D., William Mitchell College of Law, St. Paul, Minn., 1999; lawyer, private practice; prosecutor, Ashland County, Wis.; acting assistant district attorney and district attorney, Ashland County, Wis., 2002-2010; elected as a Republican to the One Hundred Twelfth and to the three succeeding Congresses (January 3, 2011-present).</biography>
         <phone>202-225-3365</phone>
         <fax>715-298-9348</fax>
         <latitude>38.8863235</latitude>

@@ -1,6 +1,6 @@
 {
   "name": "civil-services-us-house",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "115th Congress United States House of Representatives. Demographics, Headshots, Legislator Data & Social Media Links ( GeoJSON. JSON, XML, CSV, SQL, XLSX  & YML formats )",
   "license": "MIT",
   "keywords": [
