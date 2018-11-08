@@ -12,7 +12,7 @@ __Civil Services__ is a collection of tools that make it possible for citizens t
 
 ![Screenshot](screenshot.gif "Screenshot")
 
-We have also built an interactive search tool that can show you some interesting demographic data on US Senators.
+We have also built an interactive search tool that can show you some interesting demographic data on US Representatives.
 
 ## [★ Search House Representatives ⧁](https://civilserviceusa.github.io/us-house/)
 
@@ -36,10 +36,10 @@ We have completed the following Data Collection [Watch Project](https://github.c
 - [X] Published NPM Package
 
 
-Senator Data
+Representative Data
 ---
 
-This project offers data for the 115th United States Senate in the following formats:
+This project offers data for the 115th United States House in the following formats:
 
 * [CSV](us-house/data/us-house.csv)
 * [JSON](us-house/data/us-house.json)
